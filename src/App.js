@@ -31,6 +31,7 @@ const App = () => {
       paragraph.classList.remove('text-out') 
 
     })
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return (
