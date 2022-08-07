@@ -6,7 +6,8 @@
     font-family: 'Oswald', sans-serif;
 }
 body{
-  background-color: #f88181 ;
+  /*background-color: #f88181*/
+  background-color: #f1f5f9;
   
 }
 
@@ -28,7 +29,7 @@ body{
   align-items: center;
   max-width: 40rem;
   background-color: rgb(46, 46, 46);
-  color: whitesmoke;
+  color: #f1f5f9;
   border-radius: 15px;
   font-size: 1.3rem;
   padding: 1rem 5rem;
@@ -42,15 +43,15 @@ button{
   padding: 0.2rem 0rem;
   font-weight: 500;
   background-color: transparent;
-  border: 2px solid whitesmoke;
-  color: whitesmoke;
+  border: 2px solid #f1f5f9;
+  color: #f1f5f9;
   font-size: 1.2rem;
   cursor: pointer;
 }
 
 .text{
   margin-bottom: 2rem;
-  color: whitesmoke;
+  color: #f1f5f9;
   transition: color 1s ease;
 }
 
